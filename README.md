@@ -27,14 +27,14 @@ El programa utiliza divisiones sucesivas entre 2 para obtener los residuos y con
 
 ## Instalación y ejecución
 
-1. Clona este repositorio o descarga el archivo `decimal a binario.c`.
+1. Clona este repositorio o descarga el archivo `Decimal a Binario.c`.
 
 2. Abre una terminal en la carpeta del proyecto.
 
 3. Compila el programa:
 
    ```bash
-   gcc decimal a binario.c -o binario
+   gcc Decimal a Binario.c -o Decimal a Binario.exe
    ```
 
 4. Ejecuta el programa:
@@ -42,7 +42,7 @@ El programa utiliza divisiones sucesivas entre 2 para obtener los residuos y con
    En Windows PowerShell:
 
    ```powershell
-   .\binario.exe
+   .\Decimal a Binario.exe
    ```
 
 ## Ejemplo de ejecución
